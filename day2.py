@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 企业利润计算
 
 sum_money = float(input("输入利润计算应发奖金(单位为万):"))

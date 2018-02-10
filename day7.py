@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 #打印乘法口诀表
 
 for x in range(1,10):

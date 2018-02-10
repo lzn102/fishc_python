@@ -1,4 +1,3 @@
-# !/usr/bin/env python
 # -*- coding:utf-8 -*-
 # 打印斐波那契数列
 
